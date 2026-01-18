@@ -1,0 +1,1 @@
+maximize the window and type any number and type Enter to start.
